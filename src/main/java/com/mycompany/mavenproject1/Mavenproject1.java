@@ -7,6 +7,7 @@ package com.mycompany.mavenproject1;
 /**
  *
  * @author brar
+ * change in the git repository
  */
 public class Mavenproject1 {
 
